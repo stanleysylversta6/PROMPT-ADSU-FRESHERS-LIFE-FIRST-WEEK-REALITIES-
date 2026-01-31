@@ -59,6 +59,7 @@ Stable tripod or smooth gimbal feel
 Professional documentary style
 
 ## HOST DIALOGUE (READ FROM iPAD)
+
 **(Natural, confident, funny delivery)**
 “So… welcome to Adamawa State University.
 First week as a fresher.
@@ -74,17 +75,21 @@ Second week… group chat already planning weekend food.”
 “But honestly…
 This place teaches you independence, patience…
 And how to survive without data.”
-**AUDIO**
+
+## AUDIO
 Natural room tone
 No background music 
 No audience sound
 Clear microphone capture
 Light natural chuckle only from the host
+
 # SYNC RULES
+
 **Perfect lip-sync**
 Mouth movement matches reading pace
 Eye movement follows text scrolling
 Small finger movement on iPad (scroll gesture)
+
 ## STYLE
 Ultra-realistic
 Mature comedy
